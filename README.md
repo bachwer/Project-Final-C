@@ -6,7 +6,7 @@ tai khoan admin:
 
 
 
-admin@gmail.com
+Email: admin@gmail.com
 
 
-admin
+Password: admin
